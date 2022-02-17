@@ -1,7 +1,7 @@
 # Facial-recognition-box
 
 
-Only runs in Linux
+## Warning: Only runs in Linux
 
 This project is basically a box that opens / closes itself based on whether the person looking at the webcam is recognized as an admin or not. 
 
